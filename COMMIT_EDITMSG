@@ -1,0 +1,8 @@
+Update header to adapt its appearance when scrolling
+
+Refactor FloatingHeader component to use a `isScrolled` state and update header/nav styling based on scroll position.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 306896cd-2646-458e-9080-e6013e72d171
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/518d677a-7efd-46b0-812e-9248b5a9598a/306896cd-2646-458e-9080-e6013e72d171/B4kFcda
